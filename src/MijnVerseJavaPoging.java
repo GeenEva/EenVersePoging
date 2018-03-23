@@ -2,6 +2,7 @@
 public class MijnVerseJavaPoging {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		System.out.println("Uiteindelijk zal het wel goed komen... denk ik");
 <<<<<<< HEAD
 		System.out.println("This is from Evy");
@@ -18,6 +19,10 @@ public class MijnVerseJavaPoging {
 		System.out.println("I'm adding something too");
 		System.out.println("im volkan and im dumb");
 >>>>>>> 11c43725b5bf3c986b985e95b368bcd8305400be
+=======
+
+		System.out.println("im the best");
+>>>>>>> f92ac9658a2988617f5643cd6f038bdb66c45fe9
 	}
 
 }
