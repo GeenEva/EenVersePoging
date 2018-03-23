@@ -8,5 +8,6 @@ public class MijnVerseJavaPoging {
 		System.out.println("im writing this code and eva pushed");
 		
 		System.out.println("This is  new clone");
+		System.out.println("kan ik een conlict oplossen of maak ik het erger");
 	}
 }
