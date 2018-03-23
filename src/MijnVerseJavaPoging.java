@@ -6,9 +6,13 @@ public class MijnVerseJavaPoging {
 		System.out.println("please dont fuck up the code");
 
 		System.out.println("im writing this code and eva pushed");
-		
+
 		System.out.println("This is  new clone");
 		System.out.println("kan ik een conlict oplossen of maak ik het erger");
+
+
+		System.out.println("ik ben dom of github is dom");
+
 
 		System.out.println("ik ben dom of github is dom");
 
