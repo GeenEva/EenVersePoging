@@ -7,7 +7,11 @@ public class MijnVerseJavaPoging {
 
 		System.out.println("im writing this code and eva pushed");
 		
+
 		System.out.println("This is after new ");
 		
+
+		System.out.println("This is  new clone");
+
 	}
 }
