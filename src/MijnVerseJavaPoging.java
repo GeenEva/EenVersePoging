@@ -13,7 +13,9 @@ public class MijnVerseJavaPoging {
 		System.out.println("This is  new clone");
 
 		System.out.println("VOL IS VOL");
-
+		
+		System.out.println("Add more line");
+		
 
 	}
 }
