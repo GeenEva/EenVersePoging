@@ -9,5 +9,7 @@ public class MijnVerseJavaPoging {
 		
 		System.out.println("This is  new clone");
 		System.out.println("kan ik een conlict oplossen of maak ik het erger");
+		
+		System.out.println("PRINTY PRINTY PRINTY");
 	}
 }
